@@ -1,0 +1,19 @@
+{
+  "name": "interview-questions",
+  "version": "1.0.0",
+  "description": "MERN interview questions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sliberta2023/interview-questions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sliberta2023/interview-questions/issues"
+  },
+  "homepage": "https://github.com/sliberta2023/interview-questions#readme"
+}
